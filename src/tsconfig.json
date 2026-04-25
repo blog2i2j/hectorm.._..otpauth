@@ -2,6 +2,7 @@
   "include": ["**/*"],
   "compilerOptions": {
     "outDir": "../types/",
+    "types": ["node"],
     "emitDeclarationOnly": true,
     "declaration": true,
     "allowJs": true,
